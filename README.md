@@ -7,6 +7,6 @@ Based on a Makers Academy challenge.
 Authors
 ------------------
 * Elaine Osbourn (kittysquee@gmail.com)
-* Jean-Jacques Calbayrac  (calbayracjj@gmail.com)
+* Jean-Jacques Calbayrac (calbayracjj@gmail.com)
 
 Please, for any bugs issued contact us by email.
